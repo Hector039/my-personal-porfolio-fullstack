@@ -1,0 +1,14 @@
+{
+    "english": {
+        "welcome": "WELCOME.",
+        "presentation": "My name is Hector Mandril, a Full-Stack developer based in Santa Fe, Argentina. I have worked on a wide range of projects, including backend and frontend development, data science, and smart contracts. These projects have involved building business management applications, using AI models, developing decentralized applications, and more. I love to learn!",
+        "mainTile": "My work",
+        "mainSubtitle": "A selection of my recent projects"
+    },
+    "spanish": {
+        "welcome": "BIENVENIDO.",
+        "presentation": "Mi nombre es Hector Mandril, un desarrollador Full-Stack con sede en Santa Fe, Capital, Argentina. He trabajado en una amplia gama de proyectos tanto de backend y frontend, como de ciencia de datos y contratos inteligentes. Aplicaciones de gestiones comerciales, uso de modelos de IA, desarrollo de aplicaciones descentralizadas y más. Me encanta aprender!.",
+        "mainTile": "Mi trabajo",
+        "mainSubtitle": "Una selección de mis proyectos recientes"
+    }
+}

@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "img": "/republica.png",
+        "title": "Gim República del Oeste",
+        "description": "Full-stack project plataform administration for local Gim. This project is in production and is used by the Gim to manage their clients, subscriptions, payments, and classes.",
+        "linkGithub": "https://github.com/Hector039/republica-server-hstgr",
+        "category": "Web Development"
+    },
+    {
+        "id": 2,
+        "img": "/BaggingEnsambleVD.png",
+        "title": "Cardiovascular Disease Prediction",
+        "description": "Machine Learning project to predict cardiovascular disease using Bagging and Ensemble methods.",
+        "linkGithub": "https://github.com/Hector039/MachineLearning-BagginEnsamble-VascularDisease",
+        "category": "Data Science"
+    },
+    {
+        "id": 3,
+        "img": "/DLAndNPL.png",
+        "title": "Text analysis for mental health and sign language detection",
+        "description": "Sentiment analysis for mental health with NPL using RandomForrest algorithm and American Sign Language images detection with Deep Learning using basic neuronal network with TensorFlow.",
+        "linkGithub": "https://github.com/Hector039/SentimentAnalisysMentalHealt-SigLanguageDetection-NPL-DL.git",
+        "category": "Data Science"
+    },
+    {
+        "id": 4,
+        "img": "/webScrapingChallenge.png",
+        "title": "Web Scraping Challenge",
+        "description": "Automatic Scrapping challenge with Python and selenium driver.",
+        "linkGithub": "https://github.com/Hector039/ejercicioWebScraping.git",
+        "category": "Data Science"
+    },
+    {
+        "id": 5,
+        "img": "/ecommerceDyango.png",
+        "title": "Ecommerce with Dyango",
+        "description": "Example Ecommerce web plataform using pure Python with Dyango.",
+        "linkGithub": "https://github.com/Hector039/Mandril-Hector-Python-TPfinal.git",
+        "category": "Web Development"
+    },
+    {
+        "id": 6,
+        "img": "/RagAppMilvusOllama.png",
+        "title": "Rag App local",
+        "description": "Rag app totally local using tools and model from Ollama, LangChain and Milvus as vector DB. It comes with a simple React frontend and FastAPI Backend with Python for Q/A the model.",
+        "linkGithub": "https://github.com/Hector039/RagApp-Ollma-LangChain-Milvus.git",
+        "category": "AI"
+    },
+    {
+        "id": 7,
+        "img": "/MERNStack.png",
+        "title": "Full Stack Ecommerce",
+        "description": "Full Stack project with MERN Stack (MongoDB, Express, React, NodeJS) for an Ecommerce web plataform. It includes user authentication, product management, and a shopping cart.",
+        "linkGithub": "https://github.com/Hector039/server55650.git",
+        "category": "Web Development"
+    },
+    {
+        "id": 8,
+        "img": "/VotationDapp.png",
+        "title": "Votation Dapp",
+        "description": "Decentralized Votation App using HardHat framework for smart contracts. It includes a React frontend that interacts with the Ethereum blockchain via MetaMask.",
+        "linkGithub": "https://github.com/Hector039/VoteApp-HardHat-React.git",
+        "category": "Blockchain"
+    },
+    {
+        "id": 9,
+        "img": "/DocSignerDapp.png",
+        "title": "Document Signer Dapp",
+        "description": "Decentralized Document Signer App using Truffle framework for smart contracts. It includes a React frontend that interacts with the Ethereum blockchain via MetaMask.",
+        "linkGithub": "https://github.com/Hector039/DocuSign-truffle-react.git",
+        "category": "Blockchain"
+    },
+    {
+        "id": 10,
+        "img": "/lotteryContract.png",
+        "title": "Lottery Smart Contract",
+        "description": "Full stack Lottery contract with Brownie framework. It includes a React frontend that interacts with the backend in ExpressJS for interact with the contract.",
+        "linkGithub": "https://github.com/Hector039/FullStack-Lottery-Smart-contract.git",
+        "category": "Blockchain"
+    }
+]
