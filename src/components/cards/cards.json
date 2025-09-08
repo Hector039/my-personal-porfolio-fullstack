@@ -3,7 +3,7 @@
         "id": 1,
         "img": "/republica.png",
         "title": "Gim República del Oeste",
-        "description": "Full-stack project plataform administration for local Gim. This project is in production and is used by the Gim to manage their clients, subscriptions, payments, and classes.",
+        "description": "Full-stack project plataform administration for local gymnasium. This project is in production and is used to manage their clients, subscriptions, payments, and classes.",
         "linkGithub": "https://github.com/Hector039/republica-server-hstgr",
         "category": "Web Development"
     },
